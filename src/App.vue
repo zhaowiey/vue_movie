@@ -17,6 +17,7 @@
 	  watch: {
 	  	"$route": "test"
 		},
+		//方法
 		methods:{
 			test(){
 				this.show = true;
@@ -28,6 +29,7 @@
 			}
 		},
 		data(){
+			//动画控制
 			return {
 				show:false
 			}

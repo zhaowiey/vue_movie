@@ -9,17 +9,17 @@ const store = new Vuex.Store({
         loginnum:0,
         loginmessage:[
         	{
-        		name:'于偲鸿',
-        		passname:'yusihong@163.com',
+        		name:'赵伟',
+        		passname:'18363836551@163.com',
         		password:'123456',
         		sex:'男',
-        		brith:'1991-05-03',
+        		brith:'1993-03-27',
         		phone:13888888888,
         		pic:require('./admin.jpg'),
         	},
         	{
-        		name:'咕咕鸿',
-        		passname:'389636851@qq.com',
+        		name:'咕咕',
+        		passname:'846045915@qq.com',
         		password:'123456',
         		sex:'男',
         		brith:'1989-05-03',
